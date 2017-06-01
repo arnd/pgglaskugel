@@ -187,7 +187,7 @@ make
 ## Runtime Dependencies
 * GnuPG
 * PostgreSQL
-* zstandart
+* Zstandard
 
 Example install for Debian:
 ```
